@@ -1,0 +1,21 @@
+{
+    "character_uid": "./uid.txt",
+    "db": {
+        "biography": "biography.json",
+        "character": "character_profile.json"
+    },
+    "spritesheet": "img/spritesheet.png",
+    "spritesheet_data": "json/character_actions.json",
+    "thumbnail": "img/thumbnail.png",
+    "tags": [
+        "3D",
+        "Tailsko",
+        "Millie",
+        "Prower",
+        "SEGA",
+        "Fox",
+        "Two",
+        "Tails",
+        "Genderbend"
+    ]
+}

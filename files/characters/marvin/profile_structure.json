@@ -1,0 +1,24 @@
+{
+    "character_uid": "./uid.txt",
+    "audio": "audio",
+    "db": {
+        "biography": "biography.json",
+        "character": "character_profile.json"
+    },
+    "language": {
+        "en": "en.torch",
+        "fr": "fr.torch"
+    },
+    "spritesheet": "img/spritesheet.png",
+    "spritesheet_data": "json/character_actions.json",
+    "thumbnail": "img/thumbnail.png",
+    "tags": [
+        "3D",
+        "Marvin",
+        "The",
+        "Paranoid",
+        "Android",
+        "Robot",
+        "Bundled"
+    ]
+}

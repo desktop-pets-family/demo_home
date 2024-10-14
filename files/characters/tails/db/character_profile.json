@@ -1,0 +1,17 @@
+{
+    "character_uid": "3",
+    "firstname": "Prower",
+    "lastname": "Miles",
+    "nickname": "Tails",
+    "age": 8,
+    "size": 80,
+    "weight": 20,
+    "specie": "Fox",
+    "strength": "Handyman",
+    "gender": "Male",
+    "world": "Sonic's world",
+    "traits": "Very Intelligent",
+    "role": "Support",
+    "status": "Alive",
+    "capabilities": "Flying, going supper"
+}

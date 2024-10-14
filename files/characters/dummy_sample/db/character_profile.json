@@ -1,0 +1,17 @@
+{
+    "character_uid": "1",
+    "firstname": "Dummy",
+    "lastname": "Sample",
+    "nickname": "Example",
+    "age": 1,
+    "size": 196,
+    "weight": 20,
+    "specie": "Human",
+    "strength": "Prop",
+    "gender": "Metal Rig",
+    "world": "Blender's world",
+    "traits": "Follows instructions from the Blender God",
+    "role": "Camera star",
+    "status": "Inert",
+    "capabilities": "Nothing that a human can't do"
+}

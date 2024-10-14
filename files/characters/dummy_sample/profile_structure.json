@@ -1,0 +1,16 @@
+{
+    "character_uid": "./uid.txt",
+    "db": {
+        "biography": "biography.json",
+        "character": "character_profile.json"
+    },
+    "thumbnail": "img/thumbnail.png",
+    "spritesheet": "img/spritesheet.png",
+    "spritesheet_data": "json/spritesheet_data.json",
+    "tags": [
+        "3D",
+        "Default",
+        "Character",
+        "Bundled"
+    ]
+}

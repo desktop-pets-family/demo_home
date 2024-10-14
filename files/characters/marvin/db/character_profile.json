@@ -1,0 +1,17 @@
+{
+    "character_uid": "2",
+    "firstname": "Marvin",
+    "lastname": "the Paranoid Android",
+    "nickname": "",
+    "age": 100,
+    "size": 180,
+    "weight": 91,
+    "specie": "Android",
+    "strength": "Brain the size of a planet",
+    "gender": "Male",
+    "world": "The Hitchhiker’s Guide to the Galaxy",
+    "traits": "extreme pessimism, depression, intelligence",
+    "role": "Marvin is initially designed as a robotic butler and is also capable of performing tasks like piloting ships. However, his primary role in the series is as a comic relief character, offering sardonic commentary on various situations.",
+    "status": "functional but often in a state of melancholy",
+    "capabilities": "More than what humans can do"
+}

@@ -1,0 +1,29 @@
+{
+    "character_uid": "./uid.txt",
+    "audio": "audio",
+    "db": {
+        "biography": "biography.sqlite",
+        "character": "character_profile.sqlite"
+    },
+    "language": {
+        "en": "en.torch",
+        "fr": "fr.torch"
+    },
+    "spritesheet": "img/spritesheet.png",
+    "spritesheet_data": "json/spritesheet_data.json",
+    "thumbnail": "img/thumbnail.png",
+    "save_file": "json/save.json",
+    "tags": [
+        "3D",
+        "Tails",
+        "Milles",
+        "Prower",
+        "Fox",
+        "Two",
+        "SEGA",
+        "Bundled"
+    ],
+    "comment": {
+        "character_save": "saves"
+    }
+}

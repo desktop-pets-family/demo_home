@@ -1,0 +1,19 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "name": "dummy",
+            "path": "/files/characters/dummy_sample/profile_structure.json"
+        },
+        {
+            "id": 2,
+            "name": "marvin",
+            "path": "/files/characters/marvin/profile_structure.json"
+        },
+        {
+            "id": 3,
+            "name": "tails",
+            "path": "/files/characters/tails/profile_structure.json"
+        }
+    ]
+}
